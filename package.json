@@ -1,0 +1,24 @@
+{
+  "private": false,
+  "name": "insomnia-plugin-response-dinamic",
+  "author": "DaniloJNS <dan.silva.13.zx@gmail.com>",
+  "description": "Insomnia response dinamic template tag",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaniloJNS/insomnia-plugin-response-dinamic",
+  },
+  "main": "index.js",
+  "insomnia": {
+    "name": "response-dinamic",
+    "unlisted": true
+  },
+  "scripts": {
+    "test": "jest --silent"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "insomnia-xpath": "3.1.0-beta.2",
+    "jsonpath-plus": "^6.0.1"
+  }
+}
