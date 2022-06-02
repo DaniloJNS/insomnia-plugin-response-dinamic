@@ -6,9 +6,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DaniloJNS/insomnia-plugin-response-dinamic",
+    "url": "https://github.com/DaniloJNS/insomnia-plugin-response-dinamic"
   },
-  "main": "index.js",
+  "main": "src/main.js",
   "insomnia": {
     "name": "response-dinamic",
     "unlisted": true
